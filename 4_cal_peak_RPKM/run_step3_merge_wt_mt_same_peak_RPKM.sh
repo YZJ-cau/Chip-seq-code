@@ -1,0 +1,6 @@
+perl merge_wt_mt_same_peak_RPKM.pl B73-H2A_peak_RPKM_on_emf1 B73-H2A_RPKM B73-H2A_peak_RPKM_on_wt_mt
+perl merge_wt_mt_same_peak_RPKM.pl B73-H3K27_peak_RPKM_on_emf1 B73-H3K27_RPKM B73-H3K27_peak_RPKM_on_wt_mt
+perl merge_wt_mt_same_peak_RPKM.pl emf1-H2A_RPKM emf1-H2A_peak_RPKM_on_B73 emf1-H2A_peak_RPKM_on_wt_mt
+perl merge_wt_mt_same_peak_RPKM.pl emf1-H3K27_RPKM emf1-H3K27_peak_RPKM_on_B73 emf1-H3K27_peak_RPKM_on_wt_mt
+
+
